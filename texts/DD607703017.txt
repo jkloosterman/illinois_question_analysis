@@ -1,0 +1,79 @@
+Read the passage from “Radios: Build Your Own!” Then answer the questions.
+
+from “Radios: Build Your Own!”
+
+by Kathiann Kowalski
+
+Young researchers build their own radios as part of the 2015 Broadcom MASTERS International program.
+
+1 You’ve probably listened to music or sports on the radio. Teenage and tween-age researchers from around the world did more than just listen to the radio this past May. They built one!
+
+2 All were middle-school delegates to the 2015 Broadcom MASTERS International program. To be chosen, each had earlier exhibited an outstanding research project in science, technology, engineering or mathematics. These are the so-called STEM fields. And like STEM, MASTERS also is an acronym. It stands for “Math, Applied Science, Technology and Engineering Rising Stars.”
+
+3 Broadcom Foundation sponsors both a U.S. competition and this companion international program. Projects by this year’s international delegates covered topics as varied as slime molds, running shoes and spacecraft. The young researchers convened in Pittsburgh, Pa., at the Intel International Science and Engineering Fair, or ISEF. (The Society for Science & the Public runs the Broadcom MASTERS, Broadcom MASTERS International and Intel ISEF. It also publishes Science News for Students.)
+
+4 Two-dozen international MASTERS delegates built radios during a visit to Carnegie Mellon University. Tom Sullivan is an electrical and computer engineering professor at the Pittsburgh school. Working in his lab, each young researcher received a kit with a circuit board, wires, electronic components and instructions. Graduate student Alexei Colin explained how to use the kit. Then the budding engineers got to work.
+
+5 A radio does three basic things. First, it harvests radio waves. Those waves are part of the electromagnetic spectrum, which is all around us. Second, the radio changes the signal from a selected station into an electric current. The force of that current, or its voltage, varies based on the sound information coded in the electrical signal. Finally, the radio converts that varying voltage into sound waves that we can hear. To make all that happen, the Broadcom MASTERS students each built their very own radio.
+
+Step by Step
+
+6 An electrical diagram told the young researchers where to place each of the kit’s parts on the circuit board. The students had to make sure they connected some pieces to the circuit board in the right direction. If any of these went in backward, the radio might not work. Or worse. If the parts were assembled incorrectly, the electric current might damage the radio’s parts.
+
+7 The do-it-yourself kits included diodes. These work like one-way gates for an electric current. On each diode, a black band denoted its negative end, or cathode. To work properly, it had to go into a hole marked with a vertical line on the electrical diagram.
+
+8 Additional parts perform other jobs. Those functions make electronic circuits work in radios—and lots of other electronic devices. Resistors, for instance, reduce the flow of current. And capacitors (kuh-PASS-it-terz) temporarily store energy.
+
+9 The radio’s pieces didn’t just snap into place. Each had to be soldered (SAAH-derd) to the circuit board. Solder is a metal that melts easily. It is used to join together metal pieces. To attach a component to the circuit board, the students used a device called a soldering iron, which preheats parts to be joined. They also added a bit of a gooey compound. Then they melted a bit of solder between the parts. The rosin-based goo, called flux, helped the solder flow around the hole in the circuit board where the piece was to be joined. This ensured a good contact.
+
+10 The students patiently soldered parts in place. Even so, the process was sometimes tricky. “Trying not to burn myself was really hard,” noted 13-year-old Isabella O’Brien of Canada.
+
+11 Getting everything into place at the same time got awkward, too. “I had a couple of parts that weren’t physically touching the board,” says 13-year-old Raghav Ganesh of San Jose, Calif. “It’s like you needed some sort of third arm to make it easier.” Without physical contact, current can’t flow through the radio within a closed circuit. In other words: The radio wouldn’t work.
+
+12 The radio builders eventually connected larger parts to the circuit board. The antenna was an iron rod with wire coiled around it. The antenna’s job is to grab radio waves from the air. A tuner let the system select—tune into—different radio stations. A microchip served as an amplifier. It made the radio’s sound louder as it came out through a speaker. And a 9-volt battery powered the radio.
+
+13 Even squeezing the battery into its plastic holder proved a challenge. “You have to push really hard,” said Jack Pollock, 14, of the United Kingdom, as he helped Kristyna Bednářová, 13, of the Czech Republic.
+
+Making Connections
+
+14 The students built AM radios. These letters stand for amplitude and modulation. That means the sound information decoded by the radio is a reflection of the strength, or amplitude, of the electromagnetic waves that it picks up.
+
+15 AM carried the first commercial radio broadcasts. Today, FM radio is more popular in many areas. FM stands for frequency modulation. FM radio decodes sound information from slight changes in the frequency of the waves.
+
+16 Yet AM radio is still important. For one thing, emergency broadcast systems use AM radio. An AM station can broadcast over a bigger area than an FM station can. An AM radio is also simpler and cheaper than an FM one. As these students learned, people can fairly easily make their own battery-powered AM radios. “It’s very easy to grab a couple of household items and build something that will receive AM frequencies,” notes Sullivan, the Carnegie Mellon professor.
+
+From “Radios: Build Your Own!” by Kathiann Kowalski from SCIENCE NEWS FOR STUDENTS, Society for Science & the Public. Copyright © 2015.
+
+Photo: © Linda Doane
+
+Part A
+
+How do paragraphs 2–4 contribute to the development of ideas in the passage?
+
+A.
+They explain how the supporting organization decided what to name the program.
+
+B.
+They describe why the program continues to be held each year.
+
+C.
+They provide information about the skills of the participants in the program.
+
+D.
+They suggest why Carnegie Mellon University is a suitable location for the program.
+
+Part B
+
+Which detail from the passage supports the answer to Part A?
+
+A.
+“. . . exhibited an outstanding research project in science, technology, engineering or mathematics.” (paragraph 2)
+
+B.
+“And like STEM, MASTERS also is an acronym.” (paragraph 2)
+
+C.
+“It also publishes Science News for Students.” (paragraph 3)
+
+D.
+“. . . Alexei Colin explained how to use the kit.” (paragraph 4)

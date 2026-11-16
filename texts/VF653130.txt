@@ -1,0 +1,76 @@
+Read the passage from the article “The Odd DUKW That Helped Win the War.” Then answer the questions.
+
+from “The Odd DUKW That Helped Win the War”
+
+by Charles C. Entwistle
+
+1 In June 1942, army officers and civilian engineers watched a strange-looking vehicle drive onto a boat ramp at Fort Belvoir, Virginia. “O.K., let’s try it,” an officer yelled to the driver. Pointing toward the Potomac River flowing swiftly below the ramp, he added, “If anything goes wrong, don’t take any chances.”
+
+2 Moments later, the vehicle—like a big green bathtub on wheels—roared down the ramp and splashed into the water.
+
+3 But instead of sinking, it floated like a motorboat. The driver made turns and circles, and even backed up. After cruising in the Potomac for a few minutes, he drove out of the river and back up the ramp.
+
+4 The men on the dock grinned with relief. The first official test of an amphibious truck was a success.
+
+5 An amphibious truck? Who needed a truck that could swim? America did. Six months earlier, the United States had entered World War II. However, two vast oceans separated American forces from the country’s powerful enemies in Europe and Asia. To carry the fight onto distant shores, U.S. troops would need to make many amphibious landings. From Europe’s winding coastline, to the tropical islands dotting the Pacific, soldiers and marines would have to attack from the sea.
+
+6 Amphibious landings are notoriously risky. A determined enemy, who has strewn the beach with obstacles and can fire machine guns and artillery from concealed positions, has a monumental advantage over exposed troops splashing through the surf struggling to establish a beachhead. And the sea itself—powerful and often unpredictable—can stop anyone and anything from reaching shore. Storms, fog, and strong currents can scatter landing craft like confetti.
+
+7 Once the landing force is ashore, the troops face another challenge: they must move off the beach. If the troops fail to advance inland and seize key objectives quickly, they risk getting pushed back into the sea.
+
+8 Such a famous disaster had occurred during World War I, when a large Allied force, led by Great Britain and France, was defeated at Gallipoli, on the shores of Turkey. The landing force, pinned down on the beach and unable to silence the enemy’s guns on the surrounding hills, was pounded to pieces and forced to withdraw.
+
+9 Keenly aware of mistakes like Gallipoli, military leaders sought new and better ways to land America’s amphibious forces successfully. Shipyards worked around the clock, turning out transport and cargo ships to carry men and supplies over the oceans. Factories across the country built landing craft by the thousands to ferry soldiers from the large ships into shore. Yet something was missing—a rapid, dependable way to deliver vital supplies to the troops as they moved inland to seize their objectives.
+
+10 To solve this problem, a project team experimented with a floating version of the Army’s Jeep. Nicknamed the “Seep,” the amphibious Jeep proved too light to handle the surf and too small to carry much cargo. However, the project’s limited success encouraged the team that a larger vehicle, an amphibious truck, might work. The army’s standard medium cargo truck, already in production, looked perfect for the job.
+
+11 Engineers at General Motors made a model using cardboard, sheet metal, and wood, and fastened it to a medium truck chassis. Then naval architects at Sparkman and Stephens, a yacht-design firm, fashioned an airtight metal floatation hull that wrapped around the truck. The result was probably the oddest-looking vehicle in automotive history. Uncertain about its value, the Army ordered just one for testing.
+
+12 The six-wheeled vehicle was designated a DUKW. The letters represented the General Motors production code. The “D” stood for the model year, 1942. The “U” stood for “utility.” The “K” designated front-wheel drive; and “W,” a dual-axle rear-wheel drive. Pronounced “duck,” the name seemed to fit perfectly.
+
+13 Powered by a standard six-cylinder, ninety-horsepower truck engine, the DUKW had about half the power of a modern pickup truck. Even so, the DUKW could reach a speed of forty-five miles per hour on land, and six miles per hour in the water. A full gas tank gave it a cruising range of 222 miles ashore, or fifty miles afloat.
+
+14 Parked at the curb, the slab-sided DUKW looked huge. It was thirty-one feet long, eight feet wide, and nearly ten feet high. Although the DUKW might have looked clumsy as it lumbered down the road, it was really quite nimble. It could climb over barriers eighteen inches high, swim through moderately rough surf, and drive up a sixty-degree grade.
+
+15 The DUKW was loaded with unique features. In mud or sand, the driver could deflate the tires by simply throwing a switch. The soft tires improved the DUKW’s traction, so the truck wouldn’t spin its wheels and get stuck. When the DUKW reached a road or firm ground, the driver could reinflate the tires by flipping another switch.
+
+16 After entering the water, the driver would move a lever and shift the power from the wheels to a small propeller. A rudder turned the DUKW in the same direction as the front wheels, so the driver could use the steering wheel while afloat.
+
+17 The truck could carry 5,000 pounds of supplies in its open cargo bay, just like its land-based brother. For obvious reasons, the DUKW didn’t have a tailgate. When fully loaded, it sat low in the water, with only about a foot of freeboard.
+
+18 The project team tested the DUKW on the Potomac, on Virginia’s beaches, and on Chesapeake Bay. The DUKW passed every test, so the Army ordered more, hopeful that a fleet of DUKWs would succeed in hauling vital supplies directly from ships anchored miles offshore to soldiers moving rapidly inland.
+
+From “The Odd DUKW That Helped Win the War” by Charles C. Entwistle from CRICKET MAGAZINE, Carus Publishing Co. © 2010.
+Photo: Pictorial Press Ltd/Alamy
+
+Part A
+
+Which sentence best describes the idea that is elaborated in paragraphs 14–17?
+
+A.
+The design of the DUKW enabled it to work on land and in water.
+
+B.
+It was challenging to design the DUKW so that it could move easily.
+
+C.
+There was at least one other type of amphibious vehicle invented before the DUKW.
+
+D.
+Inventors tried many different experiments before they were successful with the DUKW.
+
+Part B
+
+How does the author elaborate on the idea in paragraphs 14–17?
+
+A.
+by describing the results of different experiments that were completed with the DUKW
+
+B.
+by explaining a special design difference that the DUKW does not share with regular trucks
+
+C.
+by comparing the DUKW with the first type of amphibious vehicle that was invented
+
+D.
+by detailing the distinctive features the DUKW uses to operate in different environments
