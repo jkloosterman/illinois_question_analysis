@@ -23,6 +23,9 @@ Output CSV columns:
   num_texts   number of texts the group appears in
   forms       all surface forms seen, with counts (e.g. "feathers:12 feather:3")
 
+Only texts belonging to items in questions/items.csv whose section contains
+"ES.ELA-LITERACY.RI" are counted (see --section).
+
 Requires: pip install nltk wordfreq
 """
 import argparse
@@ -82,14 +85,22 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--indir", default="texts", help="directory of .txt files")
+    ap.add_argument("--items", default="questions/items.csv",
+                    help="items CSV; only texts of items whose section contains "
+                         "--section are counted")
+    ap.add_argument("--section", default="ES.ELA-LITERACY.RI",
+                    help="section substring to keep (default ES.ELA-LITERACY.RI)")
     ap.add_argument("--out", default="wordcount.csv", help="output CSV path")
     ap.add_argument("--rank-list-size", type=int, default=500_000,
                     help="how many top English words to rank (default 500000)")
     args = ap.parse_args()
 
-    files = sorted(Path(args.indir).glob("*.txt"))
+    with open(args.items, newline="", encoding="utf-8") as fh:
+        wanted = {Path(r["output_file"]).stem for r in csv.DictReader(fh)
+                  if args.section in r["section"]}
+    files = sorted(p for p in Path(args.indir).glob("*.txt") if p.stem in wanted)
     if not files:
-        sys.exit(f"No .txt files found in {args.indir}/")
+        sys.exit(f"No .txt files in {args.indir}/ match section {args.section}")
 
     stemmer = SnowballStemmer("english")
     stem_cache = {}
