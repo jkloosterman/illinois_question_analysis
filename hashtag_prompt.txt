@@ -1,0 +1,13 @@
+Read the text below and generate 5 hashtags that describe its subject matter, so it can be grouped with related texts in a library of classroom reading materials.
+
+Guidelines:
+- Tag the topic, field, or area of study (e.g., #Fossils, #Prehistory, #HistoricalMethods, #Conservation), not the specific plot, names, or events of this text.
+- Aim for the middle level of specificity. A tag should be narrow enough to be meaningful, such as #LivingFossils rather than #Science, and broad enough that other articles could share it, such as #Fossils rather than #CoelacanthCaughtIn1938.
+- Don't use proper nouns (people, places, species names) unless the text is about a major field or movement.
+- Cover different angles. Include a mix of the following where they apply:
+  1. the core subject area
+  2. a related field or time period
+  3. a method, process, or way of knowing (how people investigate or learn about the topic)
+  4. a key concept or phenomenon
+  5. a broader issue or application
+- Avoid duplicates or near-synonyms among the 5 tags.
